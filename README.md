@@ -5,8 +5,8 @@
 This project was created as part of my SQL course. It includes ER diagrams designed using MySQL Workbench and SQL operations such as create, insert, trigger, joins, and stored procedures.
 
 ## Contents
-- [workbench(SQL Scripts)]()
-- [Project Documentation](Documentation/Project_Documentation.pdf)
+- [workbench(SQL Scripts)](https://github.com/nithyashakthi/SQL-ER-Diagrams-Project/tree/main/workbench)
+- [Project Documentation](https://github.com/nithyashakthi/SQL-ER-Diagrams-Project/blob/main/sql%20project%20_doc.pdf)
 
 
 ## workbench
@@ -23,7 +23,7 @@ This folder includes  10 SQL scripts demonstrating various operations:
 -`sql10.sql`
 
 ## Documentation
-Detailed documentation of the project can be found [here](Documentation/Project_Documentation.pdf).
+Detailed documentation of the project can be found [here](https://github.com/nithyashakthi/SQL-ER-Diagrams-Project/blob/main/sql%20project%20_doc.pdf).
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/nithyashakthi/SQL-ER-Diagrams-Project.git`
